@@ -3,7 +3,7 @@ Contributors: intlect
 Tags: blogroll, links, page
 Requires at least: 2.1.0
 Tested up to: 2.9.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 A simple plugin to output your Wordpress Links (i.e. blogroll) to a Page or Post. Just add <code>&lt;!--links-page--&gt;</code> to a Page or Post and that's it.
 
