@@ -5,11 +5,11 @@ Requires at least: 2.1.0
 Tested up to: 2.9.2
 Stable tag: 1.0.1
 
-A simple plugin to output your Wordpress Links (i.e. blogroll) to a Page or Post. Just add <!--links-page--> to a Page or Post and that's it.
+A simple plugin to output your Wordpress Links (i.e. blogroll) to a Page or Post. Just add <code>&lt;!--links-page--&gt;</code> to a Page or Post and that's it.
 
 == Description ==
 
-Outputs your Wordpress Links (i.e. blogroll) to a Page or Post. Add the text <--links-page--> to a Page or Post and that's it.
+Outputs your Wordpress Links (i.e. blogroll) to a Page or Post. Add the text <code>&lt;!--links-page--&gt;</code> to a Page or Post and that's it.
 
 == Installation ==
 
@@ -23,6 +23,9 @@ Outputs your Wordpress Links (i.e. blogroll) to a Page or Post. Add the text <--
 2. Plugin output
 
 == Changelog ==
+
+= 1.0.2 =
+* Readme fie cleanup so that <code>&lt;!--links-page--&gt;</code> actually shows up on the Wordpress.org plugin site.
 
 = 1.0.1 =
 * Added licensing information.
