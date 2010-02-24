@@ -15,7 +15,7 @@ Outputs your Wordpress Links (i.e. blogroll) to a Page or Post. Add the text <co
 
 1. Upload `links-page.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Add the text <--links-page--> in a Page or Post and that's it
+3. Add the text <code>&lt;!--links-page--&gt;</code> in a Page or Post and that's it
 
 == Screenshots ==
 
