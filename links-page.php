@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Links Page
-Plugin URI: http://intlect.com/wordpress-links-page-plugin/
+Plugin URI: http://wordpress.org/extend/plugins/links-page/
 Description: A simple plugin to output your Wordpress Links (i.e. blogroll) to a Page or Post. Just add <code>&lt;!--links-page--&gt;</code> to a Page or Post and that's it.
-Version: 1.0.2
-Author: TJ
+Version: 1.0.3
+Author: intlect
 Author URI: http://intlect.com/
 
 Copyright (C) 2010 TJ, intlect.com (tj@intlect.com)
